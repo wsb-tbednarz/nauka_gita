@@ -6,7 +6,7 @@ function average (a, b)
 
 function average (a, b)
 {
-  return 0.3*a+0.7*b;
+  return 0.1*a+0.9*b;
 }
 
 ?>
